@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Web"
+  id="myeclipse.1487925569744"
+  context-root="/stewardweb"
+  j2ee-spec="1.7"
+  archive="Web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
